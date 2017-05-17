@@ -1,2 +1,0 @@
-# netologyA-BO
-Netology homeworks
